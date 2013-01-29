@@ -14,7 +14,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>lazy-practice-web Maven Webapp</name>
-	<description>懒人实践 web programs</description>
+	<description>懒人实践 web app</description>
 	<url>http://maven.apache.org</url>
 
 	<build>
