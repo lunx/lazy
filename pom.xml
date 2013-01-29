@@ -11,12 +11,9 @@
 	<url>http://com.lunx.lazy</url>
 
 	<scm>
-		<!--  
-		<connection>http://127.0.0.1:8090/svn/tech/trunk/lazy</connection>
-		<developerConnection>http://127.0.0.1:8090/svn/tech/trunk/lazy</developerConnection>
-		<tag>http://127.0.0.1:8090/svn/tech/tags/lazy</tag>
-		<url>http://127.0.0.1:8090/svn/tech/trunk/lazy</url>
-		-->
+		<!-- <connection>http://127.0.0.1:8090/svn/tech/trunk/lazy</connection> 
+			<developerConnection>http://127.0.0.1:8090/svn/tech/trunk/lazy</developerConnection> 
+			<tag>http://127.0.0.1:8090/svn/tech/tags/lazy</tag> <url>http://127.0.0.1:8090/svn/tech/trunk/lazy</url> -->
 	</scm>
 
 	<organization>
